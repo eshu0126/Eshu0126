@@ -1,10 +1,10 @@
 <!--
-Use this file as README.md in https://github.com/eshu0126/eshu0126
-Add your resume file to: assets/resume/Eshu_Sharma_Resume.pdf
+Use this file as README.md in your special profile repo (repository name must match your username).
+Add your resume file to: assets/resume/Eshwar_Srinivasan_Resume.pdf
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=Eshu%20Sharma&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Building%20real%20products%20for%20real%20business%20problems&descAlignY=62&descAlign=50&color=0:0f172a,35:0f766e,100:0ea5e9" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=Eshwar%20Srinivasan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Building%20real%20products%20for%20real%20business%20problems&descAlignY=62&descAlign=50&color=0:0f172a,35:0f766e,100:0ea5e9" alt="header" />
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ Add your resume file to: assets/resume/Eshu_Sharma_Resume.pdf
 ## Resume
 
 <p>
-  <a href="https://github.com/eshu0126/eshu0126/blob/main/assets/resume/Eshu_Sharma_Resume.pdf">
+  <a href="./assets/resume/Eshwar_Srinivasan_Resume.pdf">
     <img src="https://img.shields.io/badge/Download%20Resume-0f172a?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="resume" />
   </a>
 </p>
@@ -78,3 +78,6 @@ Add your resume file to: assets/resume/Eshu_Sharma_Resume.pdf
 </p>
 
 > Build useful things. Keep them clean. Ship every week.
+
+
+
