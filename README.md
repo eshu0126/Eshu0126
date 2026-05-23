@@ -4,7 +4,7 @@ Add your resume file to: assets/resume/Eshwar_Srinivasan_Resume.pdf
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=Eshwar%20Srinivasan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Building%20real%20products%20for%20real%20business%20problems&descAlignY=62&descAlign=50&color=0:0f172a,35:0f766e,100:0ea5e9" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=Eshwar%20S&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Building%20real%20products%20for%20real%20business%20problems&descAlignY=62&descAlign=50&color=0:0f172a,35:0f766e,100:0ea5e9" alt="header" />
 </p>
 
 <p align="center">
